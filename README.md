@@ -4,7 +4,7 @@ An extension of the Python Rich: Console to allow for easier and more consistent
 
 ## Installation (Compatible with Python 3.6.1 and above)
 
-1. Install dependencies from the requirements.txt file from the `./utils` directory.
+1. Install dependencies from the requirements.txt file in the `./utils` directory.
 2. Place `./utils` in the root directory of your project (or run `./example.py`
 
 ```bash
